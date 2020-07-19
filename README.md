@@ -23,6 +23,7 @@
 <br />
 <br />
 <br />
+<br />
 
 ## About me
 
@@ -35,7 +36,8 @@
 
 :raising_hand: **I'm a volunteer mentor for the Space Squad - [Rocketseat](https://rocketseat.com.br/)** -->
 
-![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=thomazella&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br/>
 
 ## Soft skills
 
@@ -48,8 +50,8 @@
 [![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Crypto%20Community&message=member&color=blue&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
 [![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=React%20Community&message=active%20member&color=blueviolet&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
 
-
 <br/>
+
 
 ## Languages, Technologies & Tools
 
@@ -69,6 +71,8 @@
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+
+![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=thomazella&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!-- ## Knowledge
 
