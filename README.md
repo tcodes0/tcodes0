@@ -37,11 +37,17 @@
 
 ![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=thomazella&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Soft skills I pride myself on
+## Soft skills
 
-### I'm really humble
-### Friendly and helpful
-### Really like to write and give back to the dev community
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=helpfulness&message=10/10&color=orange&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Vibe&message=Friendly&color=pink&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
+
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Energy%20Level&message=HIGH&color=red&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
+
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=Crypto%20Community&message=member&color=blue&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
+[![https://www.linkedin.com/in/thomazella](https://img.shields.io/static/v1?label=React%20Community&message=active%20member&color=blueviolet&style=for-the-badge)](https://www.linkedin.com/in/thomazella/)
+
 
 <br/>
 
