@@ -37,6 +37,13 @@
 
 ![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=thomazella&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+## Soft skills I pride myself on
+
+### I'm really humble
+### Friendly and helpful
+### Really like to write and give back to the dev community
+
+<br/>
 
 ## Languages, Technologies & Tools
 
@@ -53,6 +60,9 @@
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 
 <!-- ## Knowledge
 
