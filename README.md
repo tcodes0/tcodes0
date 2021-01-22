@@ -1,7 +1,7 @@
 
 # Hello. You can call me Thom ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
-## I'm a Full-stack Developer from Brazil working with software since 2016
+## I'm a Software Engineer from Brazil working with software since 2016
 
 <!-- [![thomazella.substack.com](https://img.shields.io/static/v1?label=Blog%20-%20Substack&message=%20&color=pink&style=flat-square&logoColor=white)](http://thomazella.substack.com/) -->
 <br/>
