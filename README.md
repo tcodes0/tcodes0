@@ -27,7 +27,7 @@
 
 ## About me
 
-### I have more than 4 years of experience actively working with tech, but I've been around computers all my life. I'm really passionate about my work and I pour most of my time into building things and self improvement.
+### I have more than 5 years of experience actively working with tech, but I've been around computers all my life. I'm really passionate about my work and I pour most of my time into building things and self improvement.
 ### During my career, I started building front ends for web, then switched to a full-stack approach and learned backend concepts. I also have sizable experience with mobile app development using javascript.
 
 <!-- <img height="22" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png">  **I'm currently development Mobile Apps with React Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">, and working remote at [Banco ABC (Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)** -->
