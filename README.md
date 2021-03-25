@@ -1,5 +1,5 @@
 
-# Hello. You can call me Thom ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+# Hello. You can call me Thom ![](https://pronoun.cyou/x/y?subject=They&object=He&height=20)
 
 ## I'm a Software Engineer from Brazil working with software since 2016
 
