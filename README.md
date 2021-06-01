@@ -8,7 +8,7 @@
 <!-- <a href="https://twitter.com/thom_is_coding" >
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<a href="https://twitter.com/thom_is_coding" >
+<a href="https://twitter.com/tcodes0" >
   <img align="left" alt="Thom| Twitter" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://tcodes0.substack.com" >
