@@ -1,7 +1,7 @@
 
 # Hello. You can call me Thom ![](https://pronoun.cyou/x/y?subject=They&object=He&height=20)
 
-## I'm a Fullstack Software Engineer working with software since 2016
+## I'm a Backend Software Engineer working with software since 2016
 
 <!-- [![tcodes0.substack.com](https://img.shields.io/static/v1?label=Blog%20-%20Substack&message=%20&color=pink&style=flat-square&logoColor=white)](http://tcodes0.substack.com/) -->
 <br/>
@@ -11,9 +11,9 @@
 <a href="https://twitter.com/tcodes0" >
   <img align="left" alt="Thom| Twitter" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://tcodes0.substack.com" >
+<!--<a href="https://tcodes0.substack.com" >
   <img align="left" alt="Thom | Blog and newsletter" width="52px" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/itndzdrwlnb1w2yv0ssu" />
-</a>
+</a>-->
 <a href="https://www.linkedin.com/in/tcodes0">
   <img align="left" alt="Linkedin" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,7 +28,7 @@
 ## About me
 
 ### I have more than 5 years of experience actively working with tech, but I've been around computers all my life.
-### I started building frontends for web, then switched to a fullstack approach and learned backend concepts. After some mobile app projects using javascript, I currently develop with React, Typescript, Go and Postgres.
+### I majored in desing and started building frontends for web and mobile using React and Javascript. I've grown to prefer backend work due to its simplicity. I currently work with backend using Go, docker, kubernetes, GCP and postgres.
 
 <!-- <img height="22" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png">  **I'm currently development Mobile Apps with React Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">, and working remote at [Banco ABC (Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)** -->
 
@@ -39,7 +39,7 @@
 
 <br/>
 
-## Soft skills
+<!--## Soft skills
 
 [![https://www.linkedin.com/in/tcodes0](https://img.shields.io/static/v1?label=helpfulness&message=10/10&color=orange&style=for-the-badge)](https://www.linkedin.com/in/tcodes0/)
 [![https://www.linkedin.com/in/tcodes0](https://img.shields.io/static/v1?label=Vibe&message=Friendly&color=pink&style=for-the-badge)](https://www.linkedin.com/in/tcodes0/)
@@ -52,25 +52,27 @@
 
 <br/>
 
-
+-->
 ## Languages, Technologies & Tools
 
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>-->
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+<!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>-->
+<!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>-->
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>-->
+<!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>-->
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+<!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>-->
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
 
 ![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=tcodes0&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
