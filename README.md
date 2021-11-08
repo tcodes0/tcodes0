@@ -28,7 +28,7 @@
 ## About me
 
 ### I have more than 5 years of experience actively working with tech, but I've been around computers all my life.
-### I majored in desing and started building frontends for web and mobile using React and Javascript. I've grown to prefer backend work due to its simplicity. I currently work with backend using Go, docker, kubernetes, GCP and postgres.
+### I majored in desing and started building frontends for web and mobile using React and Javascript. I've grown to prefer backend work due to its simplicity. I currently work with backend using Go and PostgreSQL.
 
 <!-- <img height="22" src="https://user-images.githubusercontent.com/21963291/87255354-63e3cf00-c460-11ea-9263-04c4f995b29a.png">  **I'm currently development Mobile Apps with React Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">, and working remote at [Banco ABC (Arab Banking Corporation) Brasil](https://www.abcbrasil.com.br/)** -->
 
@@ -72,7 +72,7 @@
 <!--<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>-->
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 ![Thom's github stats](https://github-readme-stats.vercel.app/api/?username=tcodes0&show_icons=true&title_color=fff&hide_rank=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
